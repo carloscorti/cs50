@@ -38,12 +38,3 @@ function newTodo() {
 }
 
 
-
-/*
-function deleteItem(event) {
-    const clickSpot = event.target
-    if (clickSpot.nodeName === 'BUTTON'){
-        //clickSpot.parentElement.remove()
-    //}
-}
-*/
